@@ -11,3 +11,9 @@ https://github.com/elicorrales/book-rust-web-programming-tutorials-/blob/main/RE
 https://github.com/elicorrales/book-rust-programming-systems-development-tutorials/blob/main/README.md  
 <br/>
 <br/>
+
+# Rust Tutorials Inspired By Website Advent of Code (2021)  
+https://github.com/elicorrales/book-rust-programming-systems-development-tutorials/blob/main/README.md  
+<br/>
+<br/>
+
