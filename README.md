@@ -13,7 +13,7 @@ https://github.com/elicorrales/book-rust-programming-systems-development-tutoria
 <br/>
 
 # Rust Tutorials Inspired By Website Advent of Code (2021)  
-https://github.com/elicorrales/book-rust-programming-systems-development-tutorials/blob/main/README.md  
+https://github.com/elicorrales/advent-of-code-rust-programming-tutorials/blob/main/README.md  
 <br/>
 <br/>
 
